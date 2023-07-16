@@ -5,7 +5,7 @@
 
 + run +
 cd zedlogo
-python3 zedlogo.py
+ptint ('python3 zedlogo.py')
 
 
 ### Visitors :

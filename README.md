@@ -6,6 +6,8 @@
 ==Run it==
 
 
+(termux & linux )- apt install python3
+
 git clone https://github.com/shazed-x/zedlogo.git
 
 

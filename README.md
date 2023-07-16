@@ -4,7 +4,7 @@
 
 
 + run +
-
+cd zedlogo
 python3 zedlogo.py
 
 

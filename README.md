@@ -4,9 +4,8 @@
 
 
 + run +
-cd zedlogo
-ptint ('python3 zedlogo.py')
-
+print("cd zedlogo")
+print('python3 zedlogo.py')
 
 ### Visitors :
 
